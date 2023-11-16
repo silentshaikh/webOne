@@ -1,0 +1,13 @@
+.top{
+    position: sticky;
+    left: 1280px;
+    font-size: 3rem;
+    bottom: 20px;
+    color: #81ecec;
+    cursor: pointer;
+}
+@media only screen and (max-width:860px) {
+    .top{
+        display: none;
+    }
+}
