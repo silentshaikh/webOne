@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/webOne/static/css/main.45baf728.css",
+    "main.js": "/webOne/static/js/main.ca60c771.js",
+    "static/js/787.61c5a43d.chunk.js": "/webOne/static/js/787.61c5a43d.chunk.js",
+    "static/media/images.jpeg": "/webOne/static/media/images.24d85496bc3d2b16661f.jpeg",
+    "static/media/jpg": "/webOne/static/media/a73998a914514734c7680df0f683d4d8.fa3bf2d1c730af1abef0.jpg",
+    "static/media/logo.svg": "/webOne/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/webOne/index.html",
+    "main.45baf728.css.map": "/webOne/static/css/main.45baf728.css.map",
+    "main.ca60c771.js.map": "/webOne/static/js/main.ca60c771.js.map",
+    "787.61c5a43d.chunk.js.map": "/webOne/static/js/787.61c5a43d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45baf728.css",
+    "static/js/main.ca60c771.js"
+  ]
+}
